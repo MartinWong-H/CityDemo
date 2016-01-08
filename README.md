@@ -1,2 +1,2 @@
 # CityDemo
-城市选择的列表
+省市二级联选择，在tableview上面显示数据，选中之后呈现在label上面，添加delegate作数据回传处理
